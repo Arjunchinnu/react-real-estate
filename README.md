@@ -15,20 +15,20 @@ A simple React frontend project built with Vite, showcasing reusable UI componen
 ## Project Structure
 
 src/
-├─ main.jsx
+├─ main.jsx                                                                                                                                                                                                          
 ├─ index.css                                                                                                                                                                                                         
-├─ App.jsx
-├─ components/
-│ ├─ Value/
-│ │ ├─ Value.jsx
-│ │ └─ Value.css
-│ └─ Residencies/
-│ ├─ Residencies.jsx
-│ └─ Residencies.css
-└─ utils/
-├─ accordion.jsx
-├─ common.js
-└─ slider.json
+├─ App.jsx                                                                                                                                                                                                           
+├─ components/                                                                                                                                                                                                       
+│ ├─ Value/                                                                                                                                                                                                          
+│ │ ├─ Value.jsx                                                                                                                                                                                                     
+│ │ └─ Value.css                                                                                                                                                                                                     
+│ └─ Residencies/                                                                                                                                                                                                    
+│ ├─ Residencies.jsx                                                                                                                                                                                                
+│ └─ Residencies.css                                                                                                                                                                                                
+└─ utils/                                                                                                                                                                                                            
+├─ accordion.jsx                                                                                                                                                                                                    
+├─ common.js                                                                                                                                                                                                        
+└─ slider.json                                                                                                                                                                                                       
 
 ### Key Files
 
