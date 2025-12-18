@@ -16,7 +16,7 @@ A simple React frontend project built with Vite, showcasing reusable UI componen
 
 src/
 ├─ main.jsx
-├─ index.css
+├─ index.css                                                                                                                                                                                                         
 ├─ App.jsx
 ├─ components/
 │ ├─ Value/
