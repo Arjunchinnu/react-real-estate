@@ -76,4 +76,4 @@ Common scripts (check your `package.json` to confirm):
 ## Notes
 
 - This project is **frontend-only**. There is no backend; all data is sourced from local JSON and JS utility files.
-- Components are designed to be reusable; you can plug `Value` and `Residencies` into any page-level layout.
+- Components are designed to be reusable; you can plug `Value` and `Residencies` into any page-level layout..
